@@ -24,8 +24,8 @@ You can also view the Unicode indexes of them (if you hover your mouse over them
 # Technical (API) information
 The fonts are stored on Windows computers inside the `C:\Windows\Boot\Fonts` directory.
 
-Unicdoe range for the Windows 10 loading circle is `U+E052` to `U+E0C6`.
-For the Windows 11 one it's `U+E100` to `U+E176`.
-*There are also some blank characters between `U+E0C6` and `U+E100` (for some reason).*
+Unicdoe range for the Windows 10 loading circle is `U+E052` to `U+E0C7`.
+For the Windows 11 one it's `U+E100` to `U+E176`.\
+*Note: I haven't verified these ranges yet, so it's the best to check for them manually for now.*
 
 For Python coders (and other people), I'll be releasing a sample application with this font in action soon.
