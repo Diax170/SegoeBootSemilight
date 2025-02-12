@@ -18,7 +18,7 @@ Then, click on "Install" in the window that appears.\
 Now wait for the installation process to finish (this should take up to 10 seconds).\
 You're done!
 
-Tip: you can press `Win + S` and search for "Character map", select the "Segoe Boot Semilight" font, scroll to the bottom and see the loading wheels present.\
+Tip: you can press `Win + S`, search for "Character map", open it, select the "Segoe Boot Semilight" font, scroll to the bottom and see the loading wheels present.\
 You can also view the Unicode indexes of them (if you hover your mouse over them).
 
 # Technical (API) information
