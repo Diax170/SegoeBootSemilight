@@ -33,4 +33,4 @@ Unicode range for the Windows 10 loading circle is `U+E052` to `U+E0C6` inclusiv
 For the Windows 11 one it's `U+E100` to `U+E176` inclusive.\
 *Note: I haven't verified these ranges yet, so it's the best to check for them manually for now.*
 
-For Python coders (and other people), I'll be releasing a sample application with this font in action soon.
+For Python coders (and other people), I've released a [sample program](https://github.com/Diax170/SegoeBootSemilight).
